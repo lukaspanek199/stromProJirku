@@ -8,7 +8,7 @@ public class StromProJirku {
 
         do {
             System.out.print("Zadej cislo: ");
-            
+
             k.insrtNmbr(Integer.parseInt(sc.nextLine()));
             k.print();
         } while (true);
